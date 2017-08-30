@@ -44,3 +44,23 @@ font-size:40px;
 color:#142170;
 width:550px;
 height:75px;}
+
+#intro2{left:800px;
+height:60px;
+width:500px;
+top:80px;}
+
+.bodyx2{
+	position:absolute;
+	left:0;
+	top:700px;
+	width:100%;
+    height:645px;
+}
+#intro3{left:800px;
+height:60px;
+width:500px;
+top:60px;
+font-family:verdana;
+font-size:40px;
+color:#142170;}
